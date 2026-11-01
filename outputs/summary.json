@@ -1,0 +1,13 @@
+{
+  "latest_year": 2025,
+  "s12_market_t": 12190.4,
+  "change_vs_base_pct": -24.0,
+  "vs_target_path_pct": -6.5,
+  "intensity_t_per_musd": 41.45,
+  "re_share_pct": 53.5,
+  "data_quality": {
+    "records": 80,
+    "gaps": 2,
+    "completeness_pct": 98.75
+  }
+}

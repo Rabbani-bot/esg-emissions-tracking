@@ -1,0 +1,4 @@
+scenario,price_usd_t,cost_musd,pct_of_ebitda
+Current policies,30,0.37,0.83
+Delayed transition,90,1.1,2.49
+Net zero 2050,150,1.83,4.14
