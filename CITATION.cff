@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "TCFD-aligned emissions tracking and transition-risk metrics"
+authors:
+  - family-names: Rabbani
+    given-names: Mohammad
+version: 1.0.0
+date-released: 2026-11-02
+license: MIT
+repository-code: "https://github.com/Rabbani-bot/esg-emissions-tracking"
+keywords: [esg, tcfd, ghg-protocol, carbon-accounting, climate-risk, python]
