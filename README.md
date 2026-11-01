@@ -41,5 +41,8 @@ On every push, GitHub Actions reruns the analysis and tests on Python 3.11 and 3
 - Grid factor 0.45 t/MWh (location-based) and residual-mix factor 0.55 t/MWh (market-based) are representative values; replace them with the official national factors for real reporting.
 - Contractual renewable electricity is counted at zero emissions under the GHG Protocol Scope 2 Guidance.
 
+## Links
+- Kaggle notebook (runs end-to-end on Kaggle): https://www.kaggle.com/code/rabbani0123/tcfd-aligned-emissions-tracking-and-climate-risk
+
 ## License
 MIT. Cite via `CITATION.cff`.
